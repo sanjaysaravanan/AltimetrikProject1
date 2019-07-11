@@ -1,4 +1,4 @@
-package Project.BuisnessLogic;
+package project.buisnesslogic;
 
 public class Invoice {
 	private long invoiceNo = 0;

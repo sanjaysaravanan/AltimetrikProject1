@@ -1,4 +1,4 @@
-package Project.DataLayer;
+package project.datalayer;
 
 public interface SAASInterface {
 	void createConnection();

@@ -1,4 +1,4 @@
-package Project.BuisnessLogic;
+package project.buisnesslogic;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

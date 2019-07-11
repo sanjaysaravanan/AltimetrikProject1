@@ -1,4 +1,4 @@
-package Project.DataLayer;
+package project.datalayer;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -9,8 +9,8 @@ import java.sql.Statement;
 import javax.mail.MessagingException;
 import javax.mail.internet.AddressException;
 
-import Project.BuisnessLogic.AcknowledgementForInvoice;
-import Project.BuisnessLogic.Invoice;
+import project.buisnesslogic.AcknowledgementForInvoice;
+import project.buisnesslogic.Invoice;
 
 public class Database implements SAASInterface {
 	Connection conn = null;

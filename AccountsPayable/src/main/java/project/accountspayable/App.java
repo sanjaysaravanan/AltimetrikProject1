@@ -1,4 +1,4 @@
-package Project.AccountsPayable;
+package project.accountspayable;
 
 import java.io.File;
 import java.io.IOException;
@@ -6,10 +6,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import Project.BuisnessLogic.Invoice;
-import Project.BuisnessLogic.MailAttachmentExample;
-import Project.BuisnessLogic.ReadPdf;
-import Project.DataLayer.Database;
+import project.buisnesslogic.Invoice;
+import project.buisnesslogic.MailAttachmentExample;
+import project.buisnesslogic.ReadPdf;
+import project.datalayer.Database;
 
 public class App {
 
